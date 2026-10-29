@@ -21,7 +21,7 @@ This project provides high-level business insights and granular performance metr
   - **Bar Charts:** Top 5 products by YTD Sales and Customer Reviews using Top-N filters.
   - **Dynamic Slicers:** Multi-select product category and quarter filters.
 
-## 📊 Dashboard Preview## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 ![Amazon Sales Analysis Dashboard](Dashboard.png)
 
 ## 💡 Business Insights
